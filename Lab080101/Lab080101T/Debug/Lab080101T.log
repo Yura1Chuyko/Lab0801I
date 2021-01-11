@@ -1,0 +1,7 @@
+﻿  Lab080101T.cpp
+C:\Users\dell\source\repos\Lab080101\Lab080101T\Lab080101T.cpp(2): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\dell\source\repos\Lab080101\Lab080101T\Lab080101T.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\dell\source\repos\Lab080101\Lab080101T\Lab080101T.cpp(4): message : use of precompiled header
+C:\Users\dell\source\repos\Lab080101\Lab080101T\Lab080101T.cpp(6,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\dell\source\repos\Lab080101\Lab080101\Lab080101.cpp(33,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dell\source\repos\Lab080101\Lab080101\Lab080101.cpp(46,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
